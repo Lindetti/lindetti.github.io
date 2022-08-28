@@ -342,7 +342,7 @@ input[type=text], input[type=password] {
   }
 
    /* Media Queries */
-  @media (max-width: 1200px) {
+  @media only screen and (max-width: 1200px) {
 
     .box3 {
      width: 220px;
@@ -351,7 +351,7 @@ input[type=text], input[type=password] {
   }
 
   /* Media Queries */
-  @media (max-width: 890px) {
+  @media only screen and (max-width: 890px) {
 
     .wrapper {
       display: grid;
