@@ -347,6 +347,11 @@ input[type=text], input[type=password] {
     .box3 {
      width: 220px;
     }
+      
+    .copyright {
+      display: grid;
+      justify-content: center;
+    }
 
   }
 
