@@ -348,10 +348,10 @@ input[type=text], input[type=password] {
      width: 220px;
     }
       
- .copyright {
-      display: grid;
-      justify-content: center;
-    }
+body {
+    display: grid;
+    justify-content: center;
+      }
 
   }
 
