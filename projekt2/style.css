@@ -348,9 +348,8 @@ input[type=text], input[type=password] {
      width: 220px;
     }
       
-    .copyright {
+ .copyright {
       display: grid;
-      align-content: center;
       justify-content: center;
     }
 
