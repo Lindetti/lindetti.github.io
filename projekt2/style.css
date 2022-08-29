@@ -351,7 +351,7 @@ input[type=text], input[type=password] {
   }
 
   /* Media Queries */
-  @media only screen and (max-width: 890px) {
+  @media only screen and (max-width: 895px) {
 
     .wrapper {
       display: grid;
