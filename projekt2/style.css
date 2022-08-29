@@ -351,7 +351,7 @@ input[type=text], input[type=password] {
   }
 
   /* Media Queries */
-  @media only screen and (min-width: 320px) and (max-width: 890px) and (orientation: landscape) {
+  @media only screen and (min-width: 320px) and (max-width: 890px) {
 
     .wrapper {
       display: grid;
