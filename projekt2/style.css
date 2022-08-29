@@ -405,12 +405,12 @@ input[type=text], input[type=password] {
       display: none;
     }
 
-      .boxes1, .boxes2 {
-        display: grid;
-        grid-gap: 4em;
-        grid-auto-flow: row;
-        margin-top: 4em;
-    }
+   .boxes1, .boxes2 {
+    display: grid;
+    grid-gap: 4em;
+    grid-auto-flow: row;
+    margin-top: 4em;
+}
 
     .boxes3 {
       display: grid;
